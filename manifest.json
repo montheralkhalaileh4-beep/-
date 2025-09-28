@@ -1,0 +1,20 @@
+{
+  "short_name": "مسك التعليمية",
+  "name": "منصة مسك التعليمية",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0284c7",
+  "background_color": "#f9fafb"
+}
